@@ -1,4 +1,6 @@
-## Web Scraping-Carrefour-E-commerce Website. Its a big hypermarket and has over 5k products. I have scraped data just for educational purpose.
+## Web Scraping-Carrefour-E-commerce Website. 
+
+#### Its a big hypermarket and has over 5k products. 
 
 ### File "1.Scraping-Carrefour_Product_Links" gets all the products links
 ### File "2.Scraping-Carrefour_Products" gets the product data
